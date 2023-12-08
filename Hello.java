@@ -2,6 +2,6 @@ package com.demo;
 
 public class Hello {
     public static void main(String[] args) {
-        System.out.println("Hello this my sample program");
+        System.out.println("Hello UC1 branch");
     }
 }
